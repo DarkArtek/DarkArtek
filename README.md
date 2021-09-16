@@ -3,7 +3,7 @@
 
 - I'm a Freelance Senior Web Developer (Wordpress, PHP, Laravel, Symfony, Python, Django, Node, Vuejs, Ruby)
 - I'm a Web / Social Media Marketer
-- 🔭 I’m currently working for [EgeaTech](https://github.com/EgeatechSRL)
+- 🔭 I’m currently working as Freelance
 - 🌱 I’m currently learning Laravel, PHP, Vue
 - 💬 Ask me about anything 😄
 - 📫 How to reach me: Telegram, Email, Discord
