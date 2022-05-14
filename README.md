@@ -12,5 +12,6 @@
 ## My Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=DarkArtek alt=DarkArtek /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=DarkArtek&show_icons=true&include_all_commits=true)](https://github.com/DarkArtek/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkArtek&layout=compact)](https://github.com/DarkArtek/github-readme-stats)
+[![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
