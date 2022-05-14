@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 
 ## My Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=DarkArtek alt=DarkArtek /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=DarkArtek alt=DarkArtek /> </p>
 
 [![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DarkArtek/DarkArtek/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
