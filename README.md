@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-luca@ahdcreative.agency-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luca@ahdcreative.agency)](mailto:luca@ahdcreative.com) 
+[![Gmail Badge](https://img.shields.io/badge/-luca@ahdcreative.agency-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luca@ahdcreative.agency)](mailto:luca@ahdcreative.agency) 
 [![Linkedin Badge](https://img.shields.io/badge/-lucaforzutti-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luca-forzutti/)](https://www.linkedin.com/in/lucaforzutti/) [![Github Badge](https://img.shields.io/badge/-DarkArtek-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DarkArtek/)](https://www.github.com/DarkArtek/) [![Twitter Badge](https://img.shields.io/badge/-ffxivita_hanna-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ffxivita_hanna/)](https://www.twitter.com/ffxivita_hanna/)
 
 - I'm a Freelance Senior Web Developer (Wordpress, PHP, Laravel, Symfony, Python, Django, Node, Vuejs, Ruby)
