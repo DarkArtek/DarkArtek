@@ -1,5 +1,5 @@
 # About
-Hello, i'm Luca. I'm a software engineer and web developer from Italy with a very strong passion for creasting fun and obviously useful projects.
+Hello there, I'm Luca. I'm a software engineer and web developer from Italy with a very strong passion for creasting fun and obviously useful projects.
 Most of my work it's open-source since i love sharing what i create and i hope that my work could be useful to others. If you like my work and want to support me, please donate or sponsor me here on GitHub.
 
 # Stats
